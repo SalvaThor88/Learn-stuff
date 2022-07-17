@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(255, 0, 0);
+    font-size: 100px;
+}
+
+.img:hover {
+    background-color: green;
+}
+
+.broc {
+    background-color: red;
+
+}
+
+#bla {
+    color: green;
+}
+
+.circ {
+    border-radius: 100%;
+}
